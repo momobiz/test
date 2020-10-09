@@ -1,0 +1,12 @@
+body{
+    background-image:url("./images/afficheur.jpg");
+    background-repeat:no-repeat;
+    background-size: 100%;
+    background-position-y: -350px;
+}
+.chrono{
+    position: absolute;  
+left: 450px;
+top: 350px;
+color:white
+}
